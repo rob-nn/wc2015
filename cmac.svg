@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="28.653cm" height="11.598cm" viewBox="-7.346 10.678 21.307 22.276"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<ellipse cx="16.235" cy="17.083" rx="1.971" ry="1.927" fill="#FFFFFF" stroke="none"  /><ellipse cx="16.235" cy="17.083" rx="1.971" ry="1.927" fill="none" stroke="#000000"  stroke-width="0.100" /><line x1="13.784" y1="17.785" x2="11.350" y2="21.350" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="13.990,17.926 14.235,17.124 13.577,17.644 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="13.990,17.926 14.235,17.124 13.577,17.644 "/>
+<line x1="13.708" y1="16.439" x2="11.000" y2="13.298" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="13.519,16.602 14.230,17.045 13.897,16.276 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="13.519,16.602 14.230,17.045 13.897,16.276 "/>
+<line x1="13.518" y1="16.673" x2="11.200" y2="15.398" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="13.398,16.892 14.219,17.059 13.639,16.454 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="13.398,16.892 14.219,17.059 13.639,16.454 "/>
+<line x1="13.424" y1="16.945" x2="11.300" y2="16.598" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="13.384,17.192 14.214,17.075 13.465,16.699 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="13.384,17.192 14.214,17.075 13.465,16.699 "/>
+<text x="12.005" y="17.232"  fill="#000000" text-anchor="start" font-size="1.10" font-family="sans" font-style="normal" font-weight="700">
+.</text>
+<text x="12.005" y="18.329"  fill="#000000" text-anchor="start" font-size="1.10" font-family="sans" font-style="normal" font-weight="700">
+.</text>
+<text x="12.005" y="19.425"  fill="#000000" text-anchor="start" font-size="1.10" font-family="sans" font-style="normal" font-weight="700">
+.</text>
+<text x="6.600" y="11.650"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="700">
+Weights (W)</text>
+<line x1="20.406" y1="17.078" x2="18.206" y2="17.083" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="20.406,17.328 21.206,17.076 20.405,16.828 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="20.406,17.328 21.206,17.076 20.405,16.828 "/>
+<text x="19.701" y="15.633"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="700">
+Output</text>
+<text x="19.701" y="16.433"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="700">
+Signal</text>
+<line x1="-3.979" y1="14.718" x2="-5.900" y2="13.423" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-4.119,14.925 -3.316,15.165 -3.840,14.510 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-4.119,14.925 -3.316,15.165 -3.840,14.510 "/>
+<line x1="-4.108" y1="16.432" x2="-5.850" y2="16.073" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-4.158,16.676 -3.324,16.593 -4.057,16.187 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-4.158,16.676 -3.324,16.593 -4.057,16.187 "/>
+<line x1="-3.927" y1="20.279" x2="-5.900" y2="21.923" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-3.767,20.471 -3.313,19.766 -4.088,20.086 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-3.767,20.471 -3.313,19.766 -4.088,20.086 "/>
+<text x="-4.200" y="17.553"  fill="#000000" text-anchor="start" font-size="1.10" font-family="sans" font-style="normal" font-weight="700">
+.</text>
+<text x="-4.200" y="18.649"  fill="#000000" text-anchor="start" font-size="1.10" font-family="sans" font-style="normal" font-weight="700">
+.</text>
+<text x="-4.200" y="19.746"  fill="#000000" text-anchor="start" font-size="1.10" font-family="sans" font-style="normal" font-weight="700">
+.</text>
+<ellipse cx="-6.000" cy="13.323" rx="0.500" ry="0.500" fill="#000000" stroke="none"  /><ellipse cx="-5.900" cy="16.038" rx="0.500" ry="0.500" fill="#000000" stroke="none"  /><ellipse cx="-5.750" cy="21.553" rx="0.500" ry="0.500" fill="#000000" stroke="none"  /><text x="-5.400" y="11.273"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="700">
+Input</text>
+<text x="-5.400" y="12.073"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="700">
+Signals (S)</text>
+<rect x="6.018" y="12.311" width="5.598" height="9.915" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="6.018" y="12.311" width="5.598" height="9.915" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="6.050" y="13.198" width="5.500" height="0.700" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="6.050" y="13.198" width="5.500" height="0.700" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="6.050" y="15.163" width="5.500" height="0.700" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="6.050" y="15.163" width="5.500" height="0.700" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="6.050" y="16.378" width="5.500" height="0.700" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="6.050" y="16.378" width="5.500" height="0.700" fill="none" stroke="#000000" stroke-width="0.100" />
+<rect x="6.050" y="20.943" width="5.500" height="0.700" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="6.050" y="20.943" width="5.500" height="0.700" fill="none" stroke="#000000" stroke-width="0.100" />
+<text x="8.600" y="18.128"  fill="#000000" text-anchor="start" font-size="1.10" font-family="sans" font-style="normal" font-weight="700">
+.</text>
+<text x="8.600" y="19.224"  fill="#000000" text-anchor="start" font-size="1.10" font-family="sans" font-style="normal" font-weight="700">
+.</text>
+<text x="8.600" y="20.321"  fill="#000000" text-anchor="start" font-size="1.10" font-family="sans" font-style="normal" font-weight="700">
+.</text>
+<rect x="-3.225" y="12.348" width="5.925" height="9.750" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="-3.225" y="12.348" width="5.925" height="9.750" fill="none" stroke="#000000" stroke-width="0.100" />
+<line x1="5.200" y1="13.548" x2="2.600" y2="13.548" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="5.200,13.798 6.000,13.548 5.200,13.298 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="5.200,13.798 6.000,13.548 5.200,13.298 "/>
+<line x1="5.200" y1="15.497" x2="2.700" y2="15.448" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="5.195,15.746 6.000,15.512 5.205,15.247 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="5.195,15.746 6.000,15.512 5.205,15.247 "/>
+<line x1="5.200" y1="16.745" x2="2.650" y2="16.798" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="5.205,16.995 6.000,16.729 5.195,16.496 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="5.205,16.995 6.000,16.729 5.195,16.496 "/>
+<line x1="5.200" y1="21.294" x2="2.700" y2="21.298" stroke="#000000" stroke-width="0.100" />
+<polygon fill="#000000" stroke="none" stroke-width="0.100" points="5.200,21.544 6.000,21.293 5.200,21.044 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="5.200,21.544 6.000,21.293 5.200,21.044 "/>
+<text x="4.000" y="17.728"  fill="#000000" text-anchor="start" font-size="1.10" font-family="sans" font-style="normal" font-weight="700">
+.</text>
+<text x="4.000" y="18.824"  fill="#000000" text-anchor="start" font-size="1.10" font-family="sans" font-style="normal" font-weight="700">
+.</text>
+<text x="4.000" y="19.921"  fill="#000000" text-anchor="start" font-size="1.10" font-family="sans" font-style="normal" font-weight="700">
+.</text>
+<text x="6.100" y="13.748"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+activated weight</text>
+<text x="-0.512" y="16.423"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Addressssing</text>
+<text x="-0.512" y="17.223"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+Weights</text>
+<text x="-0.512" y="18.023"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+to Activation</text>
+<text x="6.150" y="15.713"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+activated weight</text>
+<text x="6.100" y="16.955"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+activated weight</text>
+<text x="6.100" y="21.510"  fill="#000000" text-anchor="start" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
+activated weight</text>
+<image x="15.166" y="15.684"  width="2.300" height="2.650" xlink:href="file:///home/roberto/Documents/wc2015/sigma.png"/>
+</svg>
